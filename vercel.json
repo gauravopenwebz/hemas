@@ -1,0 +1,1 @@
+{ "rewrites": [{ "source": "/(.*)", "destination": "/" }],"installCommand": "yum install -y hostname && npm install" }
